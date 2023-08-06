@@ -28,7 +28,7 @@ body .category{
     color: #5f5f5f;
     width: 100%;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
-    transition: all 150ms;
+    transition: all 950ms;
     cursor: pointer;
 }
 .card:hover{
